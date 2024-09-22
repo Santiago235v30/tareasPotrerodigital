@@ -1,0 +1,41 @@
+body{
+background-color: #171717;
+color: aliceblue;
+}
+
+
+
+p{
+   font-size: 18px; 
+   text-align: start;
+margin-left: 140px;
+}
+li{
+    font-size: 40px;
+    color: wheat;
+margin-left: 170px;
+margin-bottom: 40px;
+}
+.barra{
+background-color: rgb(255, 255, 255);
+padding: 5px;
+color:black;
+transition: 2s;
+font-size: 0;
+
+}
+.barra:hover{
+    text-decoration: dashed;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+font-size: 20px;
+font-family: cursive;
+    }
+
+
+    a:hover{
+        text-decoration: underline;
+    }
+    a{
+        text-decoration: none;
+    }
